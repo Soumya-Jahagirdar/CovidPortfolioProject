@@ -1,12 +1,12 @@
---select * 
---from PortfolioProject.dbo.CovidDeaths
---where continent is nto null
---order by 3,4
+select * 
+from PortfolioProject.dbo.CovidDeaths
+where continent is nto null
+order by 3,4
 
 
---select * 
---from PortfolioProject.dbo.CovidVaccinations
---order by 3,4
+select * 
+from PortfolioProject.dbo.CovidVaccination
+order by 3,4
 
 --select data that we will be using
 
